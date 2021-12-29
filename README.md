@@ -8,3 +8,24 @@ Rhyme dictionary example:
 Syllable parsing:
 
 [[['Y EH1 S'], ['IH1 N'], ['G IH0 D'], ['T EH1 S T']], [['R AO1 NG'], ['M IY1'], ['N OW1 B AH0 L'], ['L AO1 R D']], [['DH AH1'], ['AH1 DH ER0'], ['W AO1 R'], ['W OW1'], ['AE1 N D'], ['AH1 V'], ['Y UW1'], ['AO1 L']], [['S OW1'], ['M AH1 CH'], ['T IH0'], ['D UW1 M'], ['AH1 V'], ['M IY1']],
+
+
+Example Generated Poem Shakespeare:
+
+But that I speak thee, nor myself, I say. 
+Your dicipline in war, wisdom in place; 
+Whilst you have fed upon my servant may 
+No, good sweet sir; no, I beseech your grace 
+
+To draw the brats of Clarence out of sight; 
+How, Phility, hould live, or else a pair 
+I am the drudge and toil in your delight, 
+Show me a mistress that is passing fair, 
+
+That you do speak to them, nor who is now. 
+How say you sing at once chafed, he cannot 
+I must confess your offer is the bow; 
+But for my sister, and I think it not 
+
+Your father's image is so hit in you, 
+He shor holds and friends: he was ever too
