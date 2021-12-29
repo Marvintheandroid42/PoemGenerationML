@@ -12,20 +12,70 @@ Syllable parsing:
 
 Example Generated Poem Shakespeare:
 
-But that I speak thee, nor myself, I say. 
+But that I speak thee, nor myself, I say.
+
 Your dicipline in war, wisdom in place; 
+
 Whilst you have fed upon my servant may 
+
 No, good sweet sir; no, I beseech your grace 
 
+
+
 To draw the brats of Clarence out of sight; 
+
 How, Phility, hould live, or else a pair 
+
 I am the drudge and toil in your delight, 
+
 Show me a mistress that is passing fair, 
 
+
+
 That you do speak to them, nor who is now. 
+
 How say you sing at once chafed, he cannot 
-I must confess your offer is the bow; 
-But for my sister, and I think it not 
+
+I must confess your offer is the bow;
+
+But for my sister, and I think it not
+
 
 Your father's image is so hit in you, 
+
 He shor holds and friends: he was ever too
+
+#############################################
+
+Dickenson Sonnet 6 syllables per line (RESEARCHED STYLE - need to add 8 and 1 rhyming couplet other not):
+
+Myself would run away 
+
+The Things that Death will buy 
+
+Jowe so fal far -- today -- 
+
+A something in the sky -- 
+
+
+Lambs for whon time will come 
+
+Ad period of go! 
+
+A Service, like a Drum -- 
+
+Or Bees, at Christmas show -- 
+
+
+What ailed so smart a ling -- 
+
+The World that thou hast pain -- 
+
+Bright Wednesd -- to blooms Spring 
+
+Your Problem -- of the Brain -- 
+
+
+Had God will find it bight 
+
+For newness of the night -- 
