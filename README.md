@@ -79,3 +79,77 @@ Your Problem -- of the Brain --
 Had God will find it bight 
 
 For newness of the night -- 
+
+#######################################################
+
+Shakspeare with sentiment analysis (mean and fit into inequality of greater than 0.7 and lower than -0.01
+
+And their true sovereign, whom they must obey?
+
+Your dicipline in war, wisdom in place;
+
+Whilst you have fed upon my servant may
+
+No, good sweet sir; no, I beseech your grace
+
+
+To draw the brats of Clarence out of sight;
+
+How, Phility, hould live, or else a pair
+
+I am the drudge and toil in your delight,
+
+Show me a mistress that is passing fair,
+
+
+That you do speak to them, nor who is now
+.
+How say you sing at once chafed, he cannot
+
+I must confess your offer is the bow;
+
+But for my sister, and I think it not
+
+
+Your father's image is so hit in you,
+
+He shor holds and friends: he was ever too
+ 
+SENTIMENT SCORE - 0.8474025974025974
+
+--------------------------------------------------
+
+Go, night, thy soul! there's no no stock and prayer.
+
+Your dicipline in war, wisdom in place;
+
+How, Phility, hould live, or else a pair
+
+No, good sweet sir; no, I beseech your grace
+
+
+To draw the brats of Clarence out of sight;
+
+That you do speak to them, nor who is now.
+
+I am the drudge and toil in your delight,
+
+I must confess your offer is the bow;
+
+
+How say you sing at once chafed, he cannot
+
+Your father's image is so hit in you,
+
+But for my sister, and I think it not
+
+He shor holds and friends: he was ever too
+
+
+She's dead, he's dead, he's changed in hearing we
+
+What art thou the angry Maptation 
+ 
+SENTIMENT SCORE: -0.4025974025974026
+
+
