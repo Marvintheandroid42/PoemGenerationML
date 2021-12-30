@@ -179,3 +179,13 @@ Is cherished of the Crow
 And period every worn -- 
 
 And Mourners to and fro 
+
+Generated Example3:
+
+From allooved I a Butterfly -- 
+
+Lambs for whon time will come 
+
+And whatsoever is consumed 
+
+And Ear -- and Heaven -- numb -- 
