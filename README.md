@@ -152,4 +152,20 @@ What art thou the angry Maptation
  
 SENTIMENT SCORE: -0.4025974025974026
 
+########################################
 
+Dickenson Format of Poems
+
+8686 - syllables
+2 and 4 rhyme in quartain
+short lines
+
+Generated Example:
+
+A Door just opened on a street -- 
+
+The Bird would not arise -- 
+
+But seemed engrossed to Absolute -- 
+
+And estimate its size --
