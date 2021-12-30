@@ -169,3 +169,13 @@ The Bird would not arise --
 But seemed engrossed to Absolute -- 
 
 And estimate its size --
+
+Generated Example2:
+
+My tenderer Experiment 
+
+Is cherished of the Crow 
+
+And period every worn -- 
+
+And Mourners to and fro 
