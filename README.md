@@ -123,7 +123,7 @@ He shor holds and friends: he was ever too
  
 **SENTIMENT SCORE - 0.8474025974025974**
 
-### Example 2
+### Example 2:
 
 Go, night, thy soul! there's no no stock and prayer.
 
@@ -160,7 +160,7 @@ What art thou the angry Maptation
 
 *********************************
 
-## Dickenson Format of Poems
+## Dickenson Quartrains Generated
 
 8686 - syllables
 2 and 4 rhyme in quartain
