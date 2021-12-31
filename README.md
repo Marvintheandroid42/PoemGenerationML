@@ -1,6 +1,6 @@
 # PoemGenerationML
 
-*About: Using ML to discern the styles of poets through corpus datasets and using sentiment analysis along with syllable and rhyme filters to structure generated lines into poetic forms to generate poems* 
+**_About: Using ML to discern the styles of poets through corpus datasets and using sentiment analysis along with syllable and rhyme filters to structure generated lines into poetic forms to generate poems_** 
 
 ### Initial Rhyme dictionary example:
 
@@ -121,7 +121,7 @@ Your father's image is so hit in you,
 
 He shor holds and friends: he was ever too
  
-*SENTIMENT SCORE - 0.8474025974025974*
+**SENTIMENT SCORE - 0.8474025974025974**
 
 ### Example 2
 
@@ -156,7 +156,7 @@ She's dead, he's dead, he's changed in hearing we
 
 What art thou the angry Maptation 
  
-*SENTIMENT SCORE: -0.4025974025974026*
+**SENTIMENT SCORE: -0.4025974025974026**
 
 *********************************
 
