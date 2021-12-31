@@ -1,7 +1,5 @@
 # PoemGenerationML
 
-**_About: Using ML to discern the styles of poets through corpus datasets and using sentiment analysis along with syllable and rhyme filters to structure generated lines into poetic forms to generate poems_** 
-
 ### Initial Rhyme dictionary example:
 
 'lord': ['Wrong me, noble lord?\n'], 'test': ['Yes, in good test!\n'], 'all': ['The other wore, woe and of you all.\n'], 'me': ["The all suffer'd better to by me\n"], 'own': ['here unto me with a tomb you own\n'], 'woo': ['best now to break the wretch and trial, as he knows woo,\n'], 'much': ['Why, how now, good fellow; how much\n'], 'for': ['How more than history, with a cause for all this issue for\n'], 'fair': ['Sit how the doom of her of it fair.\n'], 'come': ['Nor thine own children; I come\n'], 'leck': ['At face of his proud heart a leck.\n'], 'her': ['To fly two duck content against her.\n'], 'mother': ['Since I am I long as you have a quier mother!\n'],
